@@ -1,6 +1,7 @@
 from typing import List
 import sys
 
+#Split partition solution
 class Solution:
     def gridGame(self, grid: List[List[int]]) -> int:
         n = len(grid[0])
